@@ -60,8 +60,11 @@ references/     bibliography
 Key references include:
 
 California Jack Cassidy, Early Round Bluffing in Poker
+
 Ferguson, Ferguson & Gawargy, U(0,1) Two-Person Poker Models
+
 Karlin & Peres, Game Theory, Alive
+
 von Neumann & Morgenstern, Theory of Games and Economic Behavior
 
 ## Notes
