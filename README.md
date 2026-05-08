@@ -30,9 +30,9 @@ The equilibrium analysis uses:
 
 The equilibrium bluffing probability is
 
-\[
+$$
 \beta^* = \frac{p}{3(1-p)}
-\]
+$$
 
 where \(p\) denotes the probability that Player 1 holds a strong hand.
 
