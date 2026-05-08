@@ -53,6 +53,7 @@ The model also discusses:
 figures/        diagrams and game trees
 abstract/       project abstract
 references/     bibliography
+```
 
 ## References
 
