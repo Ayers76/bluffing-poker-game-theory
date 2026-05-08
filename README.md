@@ -50,7 +50,7 @@ The model also discusses:
 ## Repository Structure
 
 ```text
-figures/        diagrams and game trees
+figures/        game tree
 abstract/       project abstract
 references/     bibliography
 ```
